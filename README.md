@@ -29,97 +29,26 @@
 
 ## `01 / PROFILE`
 
-```html
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDENTITY-071426?style=for-the-badge&labelColor=071426&color=075985" />
-
-<br/><br/>
-
-<table width="90%">
-<tr>
-<td colspan="2" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=450&lines=SYSTEM+IDENTITY+%2F%2F+ROMAN;CYBERSECURITY+%7C+THREAT+DETECTION;LEARN+%E2%86%92+BUILD+%E2%86%92+SECURE" alt="Animated identity" />
-</td>
-</tr>
-
-<tr>
-<td width="30%" align="center">
-<img src="https://img.shields.io/badge/01-NAME-0C4A6E?style=flat-square" />
-</td>
-<td><strong>Roman</strong></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/02-ROLE-075985?style=flat-square" />
-</td>
-<td><strong>Cybersecurity | Threat Detection | Security Engineering</strong></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/03-EDUCATION-1D4ED8?style=flat-square" />
-</td>
-<td>B.E. Computer Science & Engineering</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/04-LOCATION-0F766E?style=flat-square" />
-</td>
-<td>India</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/05-INTERESTS-0369A1?style=flat-square" />
-</td>
-<td>Threat Hunting · Network Security · Application Security</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/06-APPROACH-166534?style=flat-square" />
-</td>
-<td>
-<code>LEARN</code> → <code>BUILD</code> → <code>TEST</code> → <code>IMPROVE</code>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-052E2B?style=flat-square&labelColor=052E2B&color=16A34A" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Building security. One project at a time.
-
-</div>
-
-I'm a Computer Science engineering student focused on developing practical skills in cybersecurity, network security, and threat detection.
-
-I explore how systems are attacked, investigate suspicious activity, and build security tools that turn technical concepts into practical solutions.
-
-My approach is simple: understand the problem, build a solution, test it, and keep improving.
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FOCUS-Threat%20Detection-0C4A6E?style=flat-square" />
-<img src="https://img.shields.io/badge/MINDSET-Hands--On%20Learning-075985?style=flat-square" />
-<img src="https://img.shields.io/badge/GOAL-Security%20Engineering-0F766E?style=flat-square" />
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  IDENTITY                                                     │
+├──────────────────────────────────────────────────────────────┤
+│  Name       : Roman                                           │
+│  Role       : Aspiring Cybersecurity Analyst                  │
+│  Education  : B.E. Computer Science & Engineering             │
+│  Location   : India                                           │
+│  Interests  : Threat Hunting | Network Security | AppSec      │
+│  Approach   : Learn → Build → Test → Improve                   │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+I'm a computer science engineering student developing practical skills in cybersecurity, network security, and threat detection.
+
+My focus is on understanding how systems are attacked, identifying suspicious activity, and building tools that help detect and investigate security threats.
+
+I enjoy turning concepts into working projects rather than limiting learning to theory.
+
+---
 
 ## `02 / SECURITY INTERESTS`
 
