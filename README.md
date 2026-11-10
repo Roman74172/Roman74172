@@ -34,9 +34,9 @@
   IDENTITY                                                     
 
   Name       : Roman                                           
-  Role       : Aspiring Cybersecurity Analyst                  
+  Role       : Cybersecurity Analyst                  
   Education  : B.E. Computer Science & Engineering             
-  Location   : India                                           
+  Location   : India                                          
   Interests  : Threat Hunting | Network Security | AppSec      
   Approach   : Learn → Build → Test → Improve                   
 
