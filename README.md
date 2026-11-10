@@ -30,16 +30,16 @@
 ## `01 / PROFILE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  IDENTITY                                                     │
-├──────────────────────────────────────────────────────────────┤
-│  Name       : Roman                                           │
-│  Role       : Aspiring Cybersecurity Analyst                  │
-│  Education  : B.E. Computer Science & Engineering             │
-│  Location   : India                                           │
-│  Interests  : Threat Hunting | Network Security | AppSec      │
-│  Approach   : Learn → Build → Test → Improve                  │
-└──────────────────────────────────────────────────────────────┘
+
+  IDENTITY                                                     
+
+  Name       : Roman                                           
+  Role       : Aspiring Cybersecurity Analyst                  
+  Education  : B.E. Computer Science & Engineering             
+  Location   : India                                           
+  Interests  : Threat Hunting | Network Security | AppSec      
+  Approach   : Learn → Build → Test → Improve                  
+
 ```
 
 I'm a computer science engineering student developing practical skills in cybersecurity, network security, and threat detection.
