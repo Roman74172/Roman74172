@@ -9,7 +9,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+ Practitioner;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Practitioner;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
 
   <br/>
 
