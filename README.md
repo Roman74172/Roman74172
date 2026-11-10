@@ -29,16 +29,107 @@
 
 ## `01 / PROFILE`
 
-```text
 
-  IDENTITY                                                     
 
-  Name       : Roman                                           
-  Role       : Aspiring Cybersecurity Analyst                  
-  Education  : B.E. Computer Science & Engineering             
-  Location   : India                                           
-  Interests  : Threat Hunting | Network Security | AppSec      
-  Approach   : Learn → Build → Test → Improve                  
+ <escape><div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=IDENTITY+%2F%2F+ROMAN;Cybersecurity+%26+Threat+Detection;Security+Engineering;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Animated identity terminal" />
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/●_SYSTEM_IDENTITY-071426?style=for-the-badge&labelColor=071426&color=0C4A6E" />
+
+</td>
+</tr>
+<tr>
+<td align="right" width="30%">
+
+<img src="https://img.shields.io/badge/NAME-0C4A6E?style=flat-square" />
+
+</td>
+<td>
+
+**Roman**
+
+</td>
+</tr>
+<tr>
+<td align="right">
+
+<img src="https://img.shields.io/badge/ROLE-075985?style=flat-square" />
+
+</td>
+<td>
+
+**Cybersecurity | Threat Detection | Security Engineering**
+
+</td>
+</tr>
+<tr>
+<td align="right">
+
+<img src="https://img.shields.io/badge/EDUCATION-1D4ED8?style=flat-square" />
+
+</td>
+<td>
+
+B.E. Computer Science & Engineering
+
+</td>
+</tr>
+<tr>
+<td align="right">
+
+<img src="https://img.shields.io/badge/LOCATION-0F766E?style=flat-square" />
+
+</td>
+<td>
+
+India
+
+</td>
+</tr>
+<tr>
+<td align="right">
+
+<img src="https://img.shields.io/badge/INTERESTS-0369A1?style=flat-square" />
+
+</td>
+<td>
+
+Threat Hunting · Network Security · AppSec
+
+</td>
+</tr>
+<tr>
+<td align="right">
+
+<img src="https://img.shields.io/badge/WORKFLOW-166534?style=flat-square" />
+
+</td>
+<td>
+
+`01 LEARN` → `02 BUILD` → `03 TEST` → `04 IMPROVE`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://img.shields.io/badge/●_ENVIRONMENT_ACTIVE-052E2B?style=flat-square&labelColor=052E2B&color=16A34A" />
+
+</td>
+</tr>
+</table>
+
+</div></escape>
+              
 
 ```
 
