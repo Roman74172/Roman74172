@@ -1,23 +1,27 @@
-```markdown
+ <escape><!-- =========================================================
+     ROMAN | CYBERSECURITY PROFILE README
+     GitHub: Roman74172
+     ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:071426,50:102D4A,100:075985&text=ROMAN&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=CYBERSECURITY%20%7C%20THREAT%20DETECTION%20%7C%20SECURITY%20ENGINEERING&descSize=13&descAlignY=67&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:071426,50:102D4A,100:075985&text=ROMAN&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=CYBERSECURITY%20%7C%20THREAT%20DETECTION%20%7C%20SECURITY%20ENGINEERING&descSize=13&descAlignY=67&animation=fadeIn" width="100%" />
 
-<br/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Practitioner;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Analyst;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0C4A6E?style=flat-square" />
-<img src="https://img.shields.io/badge/BASED%20IN-INDIA-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-0F766E?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0C4A6E?style=flat-square" />
+  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-1D4ED8?style=flat-square" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/Roman74172">
-  <img src="https://img.shields.io/badge/GitHub-Roman74172-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/Roman74172">
+    <img src="https://img.shields.io/badge/GitHub-Roman74172-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
@@ -25,55 +29,18 @@
 
 ## `01 / PROFILE`
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=IDENTITY+%2F%2F+ROMAN;Cybersecurity+%26+Threat+Detection;Security+Engineering;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Animated identity terminal" />
-
-<table>
-<tr>
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/SYSTEM_IDENTITY-071426?style=for-the-badge&labelColor=071426&color=0C4A6E" />
-</td>
-</tr>
-<tr>
-<td align="right" width="30%">
-<img src="https://img.shields.io/badge/NAME-0C4A6E?style=flat-square" />
-</td>
-<td><strong>Roman</strong></td>
-</tr>
-<tr>
-<td align="right">
-<img src="https://img.shields.io/badge/ROLE-075985?style=flat-square" />
-</td>
-<td><strong>Cybersecurity | Threat Detection | Security Engineering</strong></td>
-</tr>
-<tr>
-<td align="right">
-<img src="https://img.shields.io/badge/EDUCATION-1D4ED8?style=flat-square" />
-</td>
-<td>B.E. Computer Science & Engineering</td>
-</tr>
-<tr>
-<td align="right">
-<img src="https://img.shields.io/badge/LOCATION-0F766E?style=flat-square" />
-</td>
-<td>India</td>
-</tr>
-<tr>
-<td align="right">
-<img src="https://img.shields.io/badge/INTERESTS-0369A1?style=flat-square" />
-</td>
-<td>Threat Hunting · Network Security · AppSec</td>
-</tr>
-<tr>
-<td align="right">
-<img src="https://img.shields.io/badge/WORKFLOW-166534?style=flat-square" />
-</td>
-<td><code>01 LEARN</code> → <code>02 BUILD</code> → <code>03 TEST</code> → <code>04 IMPROVE</code></td>
-</tr>
-</table>
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  IDENTITY                                                     │
+├──────────────────────────────────────────────────────────────┤
+│  Name       : Roman                                           │
+│  Role       : Aspiring Cybersecurity Analyst                  │
+│  Education  : B.E. Computer Science & Engineering             │
+│  Location   : India                                           │
+│  Interests  : Threat Hunting | Network Security | AppSec      │
+│  Approach   : Learn → Build → Test → Improve                   │
+└──────────────────────────────────────────────────────────────┘
+```
 
 I'm a computer science engineering student developing practical skills in cybersecurity, network security, and threat detection.
 
@@ -90,36 +57,36 @@ I enjoy turning concepts into working projects rather than limiting learning to 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="48" alt="Security Operations"/><br/>
-<strong>Security Operations</strong><br/>
-<sub>SOC • SIEM • Log Analysis</sub>
+  <img src="https://img.icons8.com/fluency/96/security-checked.png" width="48"/><br/>
+  <b>Security Operations</b><br/>
+  <sub>SOC • SIEM • Log Analysis</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/network.png" width="48" alt="Network Security"/><br/>
-<strong>Network Security</strong><br/>
-<sub>IDS • Traffic Analysis • Detection</sub>
+  <img src="https://img.icons8.com/fluency/96/network.png" width="48"/><br/>
+  <b>Network Security</b><br/>
+  <sub>IDS • Traffic Analysis • Detection</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/search.png" width="48" alt="Threat Hunting"/><br/>
-<strong>Threat Hunting</strong><br/>
-<sub>Investigation • IOC • TTPs</sub>
+  <img src="https://img.icons8.com/fluency/96/search.png" width="48"/><br/>
+  <b>Threat Hunting</b><br/>
+  <sub>Investigation • IOC • TTPs</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/web-shield.png" width="48" alt="Application Security"/><br/>
-<strong>Application Security</strong><br/>
-<sub>VAPT • OWASP • API Security</sub>
+  <img src="https://img.icons8.com/fluency/96/web-shield.png" width="48"/><br/>
+  <b>Application Security</b><br/>
+  <sub>VAPT • OWASP • API Security</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48" alt="AI Security"/><br/>
-<strong>AI Security</strong><br/>
-<sub>LLM Security • Prompt Injection</sub>
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/><br/>
+  <b>AI Security</b><br/>
+  <sub>LLM Security • Prompt Injection</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/96/console.png" width="48" alt="Security Research"/><br/>
-<strong>Security Research</strong><br/>
-<sub>CTFs • Labs • Experimentation</sub>
+  <img src="https://img.icons8.com/fluency/96/console.png" width="48"/><br/>
+  <b>Security Research</b><br/>
+  <sub>CTFs • Labs • Experimentation</sub>
 </td>
 </tr>
 </table>
@@ -181,7 +148,7 @@ A network threat detection and analysis system designed to identify suspicious n
 
 **Cybersecurity & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,docker,mysql&theme=dark" />
 
 <br/><br/>
 
@@ -213,26 +180,17 @@ Currently working on strengthening my practical cybersecurity foundation.
 
 <div align="center">
 
-<a href="https://github.com/Roman74172">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roman74172&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&text_color=C9D8E8&icon_color=22C55E" width="48%" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Roman74172">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman74172&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=C9D8E8" width="48%" alt="Top languages" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Roman74172&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D8E8&icon_color=22C55E&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman74172&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D8E8" />
 
 <br/><br/>
 
-**Contribution Activity**
-
-<a href="https://github.com/Roman74172">
-  <img src="https://ghchart.rshah.org/38BDF8/Roman74172" width="95%" alt="GitHub contribution calendar" />
-</a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roman74172&bg_color=00000000&color=38BDF8&line=0EA5E9&point=22C55E&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br/><br/>
 
-**Contribution Streak**
-
-<img src="https://streak-stats.demolab.com?user=Roman74172&theme=transparent&hide_border=true&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=C9D8E8&dates=94A3B8" width="85%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Roman74172&theme=transparent&hide_border=true&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=C9D8E8&dates=94A3B8" width="80%" />
 
 </div>
 
@@ -244,13 +202,15 @@ Currently working on strengthening my practical cybersecurity foundation.
 
 Interested in cybersecurity projects, technical discussions, collaboration, and internship opportunities.
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Roman74172">
   <img src="https://img.shields.io/badge/GitHub-Connect-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your actual LinkedIn profile URL here when ready. -->
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -259,4 +219,5 @@ Interested in cybersecurity projects, technical discussions, collaboration, and 
 <sub>Designed & maintained by Roman · Building in public.</sub>
 
 </div>
-```
+
+<!-- End of profile README --></escape>
