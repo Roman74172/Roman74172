@@ -9,7 +9,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Analyst;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Building+Practical+Security+Systems;Exploring+Threat+Detection+%26+Hunting;Learning.+Building.+Securing." alt="Typing SVG" />
 
   <br/>
 
@@ -30,16 +30,16 @@
 ## `01 / PROFILE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  IDENTITY                                                     │
-├──────────────────────────────────────────────────────────────┤
-│  Name       : Roman                                           │
-│  Role       : Aspiring Cybersecurity Analyst                  │
-│  Education  : B.E. Computer Science & Engineering             │
-│  Location   : India                                           │
-│  Interests  : Threat Hunting | Network Security | AppSec      │
-│  Approach   : Learn → Build → Test → Improve                   │
-└──────────────────────────────────────────────────────────────┘
+
+  IDENTITY                                                     
+
+  Name       : Roman                                           
+  Role       : Aspiring Cybersecurity Analyst                  
+  Education  : B.E. Computer Science & Engineering             
+  Location   : India                                           
+  Interests  : Threat Hunting | Network Security | AppSec      
+  Approach   : Learn → Build → Test → Improve                   
+
 ```
 
 I'm a computer science engineering student developing practical skills in cybersecurity, network security, and threat detection.
